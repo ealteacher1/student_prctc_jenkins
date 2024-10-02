@@ -104,7 +104,7 @@
             
             <configuration>
              <suiteXmlFiles>
-               <suiteXmlFile>Runtime/std_testng.xml</suiteXmlFile>
+               <suiteXmlFile>Pipeline/${xmlFiles}</suiteXmlFile>
              </suiteXmlFiles>
             </configuration>
            
